@@ -1,2 +1,2 @@
 # project-1-GAME
-I developed this game using Javascript.
+I developed this game Html,Css and JavaScript.
